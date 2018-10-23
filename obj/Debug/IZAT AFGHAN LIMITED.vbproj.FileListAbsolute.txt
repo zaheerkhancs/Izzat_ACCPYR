@@ -1,0 +1,209 @@
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.exe
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.xml
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.pdb
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.exe.manifest
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.application
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.exe
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.pdb
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.xml
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\LanguageSelector.dll
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FinancialPeriod.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmBalanceSheet.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmBox.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCashBook.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmChartOfAccount.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmClosing.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCompany.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCompanySetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmFind.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmFind2.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmFirst.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmGL.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmGLSetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmImpHeads.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmIncomeStatment.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.Saraaf.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DFrmAttendenceSheet.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmAttendenceSheet.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.MoneyExchanger.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.SetupListForAllHRM.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.IALResources.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FlushDatabase.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmBackup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmLogin.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.Frm.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmPostingSetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSubCategory.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSubSidiary.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmTrial.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmUser.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmVoucher.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmVoucherType.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmAdvancePaymentForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmEmpForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmGoDownForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmProvinceForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmSalForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmShopKepperForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmVendorForReport.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmAdvancePayment.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmAdvancePaymentSalary.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmEmpSetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmGoDown.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmProvinces.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmSalaries.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmShopSetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmVendorSetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmRptSetup.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSqlConfig.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.IzatAfghanLimited.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.Resources.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.ChequeCriteriaForPrint.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmClaimPayment.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmOtherExpenses.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmPurchasePayment.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmPurchaseQty.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmClaimEnglish.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCustomer.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmBilty.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCheque.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmClaim.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCustomerType.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmDamages.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmDamagesOfSaleman.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmIssuedOnReplacement.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmObraye.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmObrayeOfficeSale.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmOderEnglish.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmOrder.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmOrderEnglishPrompt.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmOrderFromCustomer.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmProduct.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmProductType.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmPurchase.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmReturn.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSale.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSaleOfSaleman.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSalePaymentDialogueBox.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSaleQtyTranfered.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmStockViewer.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmWeight.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.GodownStock.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.SetupListForAll.resources
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.exe.manifest
+C:\Documents and Settings\Qazi Mahfooz\Desktop\izat\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.application
+C:\projects\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\projects\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\projects\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.vbproj.ResolveComReference.cache
+C:\projects\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.xml
+C:\projects\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.pdb
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.vbproj.ResolveComReference.cache
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.xml
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.pdb
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.exe.manifest
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.application
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.exe
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.pdb
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\IZAT AFGHAN LIMITED.xml
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\LanguageSelector.dll
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\ResolveAssemblyReference.cache
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FinancialPeriod.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmBalanceSheet.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmBox.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCashBook.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmChartOfAccount.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmClosing.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCompany.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCompanySetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmFind.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmFind2.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmFirst.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmGL.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmGLSetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmImpHeads.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmIncomeStatment.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.Saraaf.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DFrmAttendenceSheet.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmAttendenceSheet.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.MoneyExchanger.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.SetupListForAllHRM.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.IALResources.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FlushDatabase.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmBackup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmLogin.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.Frm.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmPostingSetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSubCategory.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSubSidiary.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmTrial.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmUser.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmVoucher.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmVoucherType.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmAdvancePaymentForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmEmpForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmGoDownForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmProvinceForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmSalForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmShopKepperForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmVendorForReport.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmAdvancePayment.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmAdvancePaymentSalary.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmEmpSetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmGoDown.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmProvinces.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmSalaries.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmShopSetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmVendorSetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmRptSetup.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSqlConfig.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.IzatAfghanLimited.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.Resources.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.ChequeCriteriaForPrint.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmClaimPayment.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmOtherExpenses.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmPurchasePayment.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.DfrmPurchaseQty.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmClaimEnglish.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCustomer.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmBilty.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCheque.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmClaim.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmCustomerType.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmDamages.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmDamagesOfSaleman.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmIssuedOnReplacement.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmObraye.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmObrayeOfficeSale.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmOderEnglish.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmOrder.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmOrderEnglishPrompt.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmOrderFromCustomer.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmProduct.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmProductType.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmPurchase.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmReturn.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSale.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSaleOfSaleman.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSalePaymentDialogueBox.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmSaleQtyTranfered.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.frmStockViewer.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.FrmWeight.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.GodownStock.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT_AFGHAN_LIMITED.SetupListForAll.resources
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.vbproj.GenerateResource.Cache
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.exe.manifest
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.application
+D:\Db codes and solution files\BackupIal\IZAT AFGHAN LIMITED\IZAT AFGHAN LIMITED\obj\Debug\IZAT AFGHAN LIMITED.exe

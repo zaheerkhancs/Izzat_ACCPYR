@@ -1,0 +1,23 @@
+Form :
+I created a new form under name of FrmIssuedOnReplacement.
+
+
+Table :
+ReplaceMain
+ReplaceDetail
+
+SP:
+
+InsertUpdateReplaceMain
+InsertUpdateReplaceDetail
+DeleteReplaceMain
+DeleteReplaceDetail
+
+
+Type in IGL is "Issued On Replacement"
+So please add this thing inside all the queries of the sale form and IGL related queries.
+
+Hey that DGOk and DGEtc both should be added in damages Grid and Detail Table too.
+
+
+Hey I made the changes you had made for only IGL Table and SP in my database.
